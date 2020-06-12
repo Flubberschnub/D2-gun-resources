@@ -1,0 +1,105 @@
+{
+ 
+    "sunshot": {
+    "sounds": [
+
+            "sunshot/sunshot1",
+            "sunshot/sunshot2"
+
+        ]
+    },
+    "adson": {
+    "sounds": [
+
+            "sunshot/adson"
+
+        ]
+    },
+    "adsoff": {
+    "sounds": [
+
+            "sunshot/adsoff"
+
+        ]
+    },
+    "sunshotreload": {
+    "sounds": [
+
+            "sunshot/sunshotreload"
+
+        ]
+    },
+    "bulletwhistle": {
+    "sounds": [
+
+            "sunshot/bulletwhistle1",
+            "sunshot/bulletwhistle2",
+            "sunshot/bulletwhistle3"
+
+        ]
+    },
+    "kill": {
+    "sounds": [
+
+            "sunshot/killedaguy"
+
+        ]
+    },
+    "gravitonlance": {
+    "sounds": [
+
+            "gravitonlance/gravitonlance",
+            "gravitonlance/gravitonlance2",
+            "gravitonlance/gravitonlance3",
+            "gravitonlance/gravitonlance4"
+
+        ]
+    },
+    "lancecho": {
+    "sounds": [
+
+            "gravitonlance/lancecho"
+
+        ]
+    },
+    "gravitonreload": {
+    "sounds": [
+
+            "gravitonlance/gravitonlancereload"
+
+        ]
+    },
+    "gravitonadson": {
+    "sounds": [
+
+            "gravitonlance/adson"
+
+        ]
+    },
+    "gravitonadsoff": {
+    "sounds": [
+
+            "gravitonlance/adsoff"
+
+        ]
+    },
+    "cosmoboom": {
+    "sounds": [
+
+            "gravitonlance/cosmoboom",
+            "gravitonlance/cosmoboom2",
+            "gravitonlance/cosmoboom3"
+
+        ]
+    },
+    "cosmorb": {
+    "sounds": [
+
+            "gravitonlance/cosmorb",
+            "gravitonlance/cosmorb2",
+            "gravitonlance/cosmorb3",
+            "gravitonlance/cosmorb4"
+
+        ]
+    }
+}
