@@ -1,5 +1,5 @@
 {
- 
+
     "sunshot": {
     "sounds": [
 
@@ -99,6 +99,63 @@
             "gravitonlance/cosmorb2",
             "gravitonlance/cosmorb3",
             "gravitonlance/cosmorb4"
+
+        ]
+    },
+    "recluse": {
+    "sounds": [
+
+            "recluse/recluse"
+
+        ]
+    },
+    "reclusehold": {
+    "sounds": [
+
+            "recluse/reclusehold"
+
+        ]
+    },
+    "reclusereload": {
+    "sounds": [
+
+            "recluse/reclusereload"
+
+        ]
+    },
+    "reclusereloadfast": {
+    "sounds": [
+
+            "recluse/reclusereloadfast"
+
+        ]
+    },
+    "recluseadson": {
+    "sounds": [
+
+            "recluse/adson"
+
+        ]
+    },
+    "recluseadsoff": {
+    "sounds": [
+
+            "recluse/adsoff"
+
+        ]
+    },
+    "recluseecho": {
+    "sounds": [
+
+            "recluse/recluseecho"
+
+        ]
+    },
+    "recluseburst": {
+    "sounds": [
+
+            "recluse/recluseburst",
+            "recluse/recluseburst2"
 
         ]
     }
