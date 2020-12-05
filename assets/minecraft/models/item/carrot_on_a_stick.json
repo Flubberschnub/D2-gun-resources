@@ -59,6 +59,7 @@
 		{"predicate": {"custom_model_data":53}, "model": "item/sunshot/sunshotanimate/sunshotload30"},
 		{"predicate": {"custom_model_data":54}, "model": "item/sunshot/sunshotaim1"},
 		{"predicate": {"custom_model_data":55}, "model": "item/sunshot/sunshotaim2"},
+		{"predicate": {"custom_model_data":56}, "model": "item/sunshot/sunshotsprint"},
 		{"predicate": {"custom_model_data":70}, "model": "item/gravitonlance/gravitonlance"},
 		{"predicate": {"custom_model_data":71}, "model": "item/gravitonlance/gravitonlanceads"},
 		{"predicate": {"custom_model_data":72}, "model": "item/gravitonlance/animate/gravitonlanceaim1"},
@@ -88,6 +89,7 @@
 		{"predicate": {"custom_model_data":96}, "model": "item/gravitonlance/animate/gravitonlanceload17"},
 		{"predicate": {"custom_model_data":97}, "model": "item/gravitonlance/animate/gravitonlanceload18"},
 		{"predicate": {"custom_model_data":98}, "model": "item/gravitonlance/animate/gravitonlanceload20"},
+		{"predicate": {"custom_model_data":99}, "model": "item/gravitonlance/gravitonlancesprint"},
 		{"predicate": {"custom_model_data":120}, "model": "item/recluse/recluse"},
 		{"predicate": {"custom_model_data":121}, "model": "item/recluse/recluseads"},
 		{"predicate": {"custom_model_data":122}, "model": "item/recluse/animate/recluseaim1"},
@@ -138,6 +140,7 @@
 		{"predicate": {"custom_model_data":170}, "model": "item/recluse/animate/recluseload40"},
 		{"predicate": {"custom_model_data":171}, "model": "item/recluse/animate/recluseload41"},
 		{"predicate": {"custom_model_data":172}, "model": "item/recluse/animate/recluseload42"},
-		{"predicate": {"custom_model_data":173}, "model": "item/recluse/animate/recluseload43"}
+		{"predicate": {"custom_model_data":173}, "model": "item/recluse/animate/recluseload43"},
+		{"predicate": {"custom_model_data":174}, "model": "item/recluse/reclusesprint"}
 	]
 }
